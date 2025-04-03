@@ -1,0 +1,22 @@
+{
+    "short_name": "VESIT",
+    "name": "Vivekanand Education Society Institue of Technology",
+    "description": "Vivekanand Education Society's Institute of Technology, also known as VESIT or V. E. S. Institute of Technology, was established in 1984 as an engineering college affiliated with the University of Mumbai.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "/src/assets/icon1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/src/assets/icon1.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
