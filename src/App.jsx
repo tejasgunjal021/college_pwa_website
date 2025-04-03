@@ -15,7 +15,7 @@ const App = () => {
   const [playState, setPlayState] = useState(false);
 
   return (
-    <Router>
+    <Router basename="/college_pwa_website">
       <div>
         <Navbar />
         <Routes>
